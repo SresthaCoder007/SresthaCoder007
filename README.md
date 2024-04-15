@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SresthaCoder007
 - 👀 I’m interested in web development and AI/ML
-- 🌱 I’m currently learning JAVA, PYTHON, C++, JAVASCRIPT, HTML, CSS
+- 🌱 I’m currently learning JAVA, PYTHON, C++, JAVASCRIPT, HTML, CSS, SQL
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me .. . ssonker9@gmail.com
 - 😄 Pronouns: ... Pinku
